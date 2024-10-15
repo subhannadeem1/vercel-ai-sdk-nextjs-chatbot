@@ -1,0 +1,17 @@
+{
+  "about": "DigitalUX is a company specializing in user experience design and digital solutions.",
+  "services": [
+    {
+      "name": "Web Design",
+      "description": "We offer modern web design services with a focus on user experience and functionality."
+    },
+    {
+      "name": "Mobile App Development",
+      "description": "We develop high-quality mobile applications for iOS and Android platforms."
+    }
+  ],
+  "contact": {
+    "email": "contact@digitalux.com",
+    "phone": "+123456789"
+  }
+}
