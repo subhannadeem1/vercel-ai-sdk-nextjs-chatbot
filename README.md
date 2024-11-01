@@ -19,3 +19,4 @@ OPENAI_API_KEY=your-openai-api-key
 
 ## Install dependencies
 yarn add ai @ai-sdk/openai zod
+ 
