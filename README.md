@@ -2,7 +2,7 @@
 ## Getting Started
 
 
-## Configure environment variables:
+## Configure environment variables: 
 
 
 Create a .env.local file in the root directory:
